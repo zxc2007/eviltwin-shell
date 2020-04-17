@@ -10,24 +10,24 @@
  <img width="50%" src="images/20200418_014024.jpg"/>
  </p><br>
  
-• Protection password with md5
-• Bypass Disable Functions
-• Bypass Symlink Vhost
-• Info System
-• Command Line
-• Symlink
-• Symlink 403
-• Symlink 404
-• Jumping
-• Auto Edit User
-• Grab Config
-• Domains
-• Mass Deface
-• Mass Delete
-• Smtp Grabber
-• Zone-H
-• Can edit,upload,delete,rename,change permissions a file
-• Rename,delete folder
+- Protection password with md5
+- Bypass Disable Functions
+- Bypass Symlink Vhost
+- Info System
+- Command Line
+- Symlink
+- Symlink 403
+- Symlink 404
+- Jumping
+- Auto Edit User
+- Grab Config
+- Domains
+- Mass Deface
+- Mass Delete
+- Smtp Grabber
+- Submit Mirror Zone-H
+- Can edit,upload,delete,rename,change permissions a file
+- Rename,delete folder
 
 ### Special Feature
 
