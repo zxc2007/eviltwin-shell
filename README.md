@@ -26,7 +26,7 @@
 - Smtp Grabber
 - Submit Mirror Zone-H
 - Can edit,upload,delete,rename,change permissions a file
-- Rename,delete folder
+- Can rename,delete folder
 
 ### Special Feature
 
