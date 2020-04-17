@@ -1,4 +1,3 @@
-
 # Evil Twin Shell
 
 **Coder Eval ID A.K.A Fadly31337**
@@ -31,24 +30,24 @@
 
 ### Special Feature
 
-• incognito Login Page With Display Error 404 Not Found
+- incognito Login Page With Display Error 404 Not Found
 <br>
 <p align="center">
 <img width="50%" src="images/20200418_014046.jpg"/>
 </p><br>
-• Size very mini but many feature just 2kb
-• You can use the latest shell without having to download it again , example we update v2.0 you can use live if your shell actived (why ? is secret)
+- Size very mini but many feature just 2kb
+- You can use the latest shell without having to download it again , example we update v2.0 you can use live if your shell actived (why ? is secret)
 
 #### Note
 
-• This shell no logger , we promise
-• We not responsible for the actions you have done with this shell.
-• And Enjoy This Shell
+- This shell no logger , we promise
+- We not responsible for the actions you have done with this shell.
+- And Enjoy This Shell
 
 ##### Thanks For
 
-• Con7ext
-• JombangXploiter
+- Con7ext
+- JombangXploiter
 
 ###### Version
 
