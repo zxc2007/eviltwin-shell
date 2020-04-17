@@ -28,7 +28,7 @@
 - Can edit,upload,delete,rename,change permissions a file
 - Can rename,delete folder
 
-### Special Feature
+## Special Feature
 
 - Size very mini but many feature just 2kb
 - You can use the latest shell without having to download it again , example we update v2.0 you can use live if your shell actived (why ? is secret)
@@ -37,19 +37,19 @@
 <img width="50%" src="images/20200418_014046.jpg"/>
 </p>
 
-#### Note
+## Note
 
 - This shell no logger , we promise
 - We not responsible for the actions you have done with this shell.
 - If you need bacot about this you can nyocot in efeeltwin@gmail.com
 - And Enjoy This Shell
 
-##### Thanks For
+### Thanks For
 
 - Con7ext
 - JombangXploiter
 
-###### Version
+### Version
 
 V1.0 ( Beta )
 
