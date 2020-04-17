@@ -1,7 +1,7 @@
 # Evil Twin Shell
 
-**Coder Eval ID A.K.A Fadly31337**
-**Encrypter Sec666 A.K.A ZSec**
+**- Coder Eval ID A.K.A Fadly31337**
+**- Encrypter Sec666 A.K.A ZSec**
 
 ## Feature :
  
