@@ -41,7 +41,7 @@
 
 - This shell no logger , we promise
 - We not responsible for the actions you have done with this shell.
-- If you need bacot about this you can nyocot in efeeltwin@gmail.com
+- If you need bacot about this shill you can nyocot in efeeltwin@gmail.com
 - And Enjoy This Shell
 
 ### Thanks For
