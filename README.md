@@ -51,6 +51,11 @@
 
 ### Version
 
-V1.0 ( Beta )
+V1.1
+
+About Update :
+
+- Fix a bug
+- Tab Home Move On Text *EVIL TWIN*
 
 { https://github.com/eviltwin-dev/eviltwin-shell/ }
