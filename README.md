@@ -49,13 +49,13 @@
 - Con7ext
 - JombangXploiter
 
-### Version
+### Update Version
 
 V1.1
 
 About Update :
 
 - Fix a bug
-- Tab Home Move On Text **EVIL TWIN**
+- Tab Home Move On Text **EVIL TWIN SHELL**
 
 { https://github.com/eviltwin-dev/eviltwin-shell/ }
