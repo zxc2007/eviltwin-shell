@@ -24,6 +24,13 @@
 - Mass Deface
 - Mass Delete
 - Smtp Grabber
+- Add adminer
+- Database Dump
+- Back Connect
+- Cpanel ResetPass
+- Create RDP/RDC
+- Clear/Delete Shell Button
+
 - Submit Mirror Zone-H
 - Can edit,upload,delete,rename,change permissions a file
 - Can rename,delete folder
@@ -55,12 +62,12 @@ V1.2
 
 About Update :
 
-- Add Tools *adminer*
-- Add Tools *Database Dump*
-- Add Tools *Back Connect*
-- Add Tools *Cpanel ResetPass*
-- Add Tools *Create RDP/RDC*
-- Add Clear/Delete Shell
-- Fix Bug On *Info*
++ Add Tools *adminer*
++ Add Tools *Database Dump*
++ Add Tools *Back Connect*
++ Add Tools *Cpanel ResetPass*
++ Add Tools *Create RDP/RDC*
++ Add Clear/Delete Shell Button
++ Fix Bug On *Info*
 
 { https://github.com/eviltwin-dev/eviltwin-shell/ }
