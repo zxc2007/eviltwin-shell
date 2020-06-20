@@ -51,11 +51,16 @@
 
 ### Update Version
 
-V1.1
+V1.2
 
 About Update :
 
-- Fix a bug
-- Tab Home Move On Text **EVIL TWIN SHELL**
+- Add Tools *adminer*
+- Add Tools *Database Dump*
+- Add Tools *Back Connect*
+- Add Tools *Cpanel ResetPass*
+- Add Tools *Create RDP/RDC*
+- Add Clear/Delete Shell
+- Fix Bug On *Info*
 
 { https://github.com/eviltwin-dev/eviltwin-shell/ }
