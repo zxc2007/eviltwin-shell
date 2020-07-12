@@ -6,7 +6,7 @@
 ## Feature :
  
  <p align="center">
- <img width="50%" src="images/20200418_014024.jpg"/>
+ <img width="50%" src="https://raw.githubusercontent.com/eviltwin-dev/eviltwin-shell/master/Shell.jpg"/>
  </p><br>
  
 - Protection password with md5
@@ -40,9 +40,9 @@
 - Size very mini but many feature just 2kb
 - You can use the latest shell without having to download it again , example we update v2.0 you can use live if your shell actived (why ? is secret)
 - incognito Login Page With Display Error 404 Not Found
-<p align="center">
-<img width="50%" src="images/20200418_014046.jpg"/>
-</p>
+
+
+
 
 ## Note
 
