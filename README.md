@@ -58,16 +58,10 @@
 
 ### Update Version
 
-V1.2
+V1.3
 
 About Update :
 
-+ Add Tools *adminer*
-+ Add Tools *Database Dump*
-+ Add Tools *Back Connect*
-+ Add Tools *Cpanel ResetPass*
-+ Add Tools *Create RDP/RDC*
-+ Add Clear/Delete Shell Button
-+ Fix Bug On *Info*
++ Change Upload to Multiple Uploader ( *select many your files and upload in one click* )
 
 { https://github.com/eviltwin-dev/eviltwin-shell/ }
