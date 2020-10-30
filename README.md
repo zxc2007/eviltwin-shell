@@ -20,7 +20,7 @@
 - Jumping
 - Auto Edit User
 - Grab Config
-- Domains
+- Domains view
 - Mass Deface
 - Mass Delete
 - Smtp Grabber
