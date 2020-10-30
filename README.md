@@ -30,7 +30,7 @@
 - Cpanel ResetPass
 - Create RDP/RDC
 - Clear/Delete Shell Button
-- Multiple Upload File
+- Upload File
 
 - Submit Mirror Zone-H
 - Can edit,upload,delete,rename,change permissions a file
