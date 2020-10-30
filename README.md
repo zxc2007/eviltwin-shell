@@ -60,5 +60,3 @@
 ### Warning!
 
 - Please download this shell from { https://github.com/eviltwin-dev/eviltwin-shell } not anything else!!
-
-{ https://github.com/eviltwin-dev/eviltwin-shell }
