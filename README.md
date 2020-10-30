@@ -47,10 +47,10 @@
 
 ## Note
 
-- This shell no logger , we promise
+- This shell no logger , we promise!
 - We not responsible for the actions you have done with this shell.
-- If you need bacot about this shell you can nyocot in eviltwin-dev@yandex.com
-- And Enjoy This Shell
+- If you need BACOT about this shell you can nyocot in eviltwin-dev@yandex.com
+- Enjoy This Shell
 
 ### Thanks For
 
@@ -65,4 +65,4 @@ About Update :
 
 + Change Upload to Multiple Uploader ( *select many your files and upload in one click* )
 
-{ https://github.com/eviltwin-dev/eviltwin-shell/ }
+{ https://github.com/eviltwin-dev/eviltwin-shell }
