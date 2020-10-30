@@ -57,12 +57,8 @@
 - Con7ext
 - JombangXploiter
 
-### Update Version
+### Warning!
 
-V1.3
-
-About Update :
-
-+ Change Upload to Multiple Uploader ( *select many your files and upload in one click* )
+- Please download this shell from { https://github.com/eviltwin-dev/eviltwin-shell } not anything else!!
 
 { https://github.com/eviltwin-dev/eviltwin-shell }
