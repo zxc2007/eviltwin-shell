@@ -1,6 +1,6 @@
 # Evil Twin Shell
 
-- **Coder Eval ID A.K.A Fadly31337**
+- **Coder Eval ID A.K.A Fadly 31337**
 - **Encrypter Sec666 A.K.A ZSec**
 
 ## Feature :
@@ -38,6 +38,7 @@
 
 ## Special Feature
 
+- Bypass shell!
 - Size very mini but many feature just 2kb
 - You can use the latest shell without having to download it again , example we update v2.0 you can use live if your shell actived (why ? is secret)
 - incognito Login Page With Display Error 404 Not Found
@@ -59,4 +60,4 @@
 
 ### Warning!
 
-- Please download this shell from { https://github.com/eviltwin-dev/eviltwin-shell } not anything else!!
+- Please download this shell from { https://github.com/eviltwin-dev/eviltwin-shell } not anything else!
