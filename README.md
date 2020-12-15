@@ -31,6 +31,8 @@
 - Create RDP/RDC
 - Clear/Delete Shell Button
 - Upload File
+- CSRF 
+- Delete logs
 
 - Submit Mirror Zone-H
 - Can edit,upload,delete,rename,change permissions a file
