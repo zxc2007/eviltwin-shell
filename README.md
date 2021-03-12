@@ -1,6 +1,6 @@
 # Evil Twin Shell
 
-- **Coder Eval ID A.K.A Fadly 31337**
+- **Coder Eval A.K.A Fadly 31337**
 - **Encrypter Sec666 A.K.A ZSec**
 
 ## Feature :
@@ -27,7 +27,7 @@
 - Add adminer
 - Database Dump
 - Back Connect
-- Cpanel ResetPass
+- Cpanel Reset Password
 - Create RDP/RDC
 - Clear/Delete Shell Button
 - Upload File
@@ -52,7 +52,7 @@
 
 - This shell no logger , we promise!
 - We not responsible for the actions you have done with this shell.
-- If you need BACOT about this shell you can nyocot in eviltwin-dev@yandex.com
+- If you need BACOT about this shell you can nyocot in zsec@eviltwin.id or eval@eviltwin.id
 - Enjoy This Shell
 
 ### Thanks For
